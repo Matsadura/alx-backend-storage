@@ -5,7 +5,7 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [MySQL: Relational Database Management System (RDBMS)](#mysql-relational-database-management-system-rdbms)
+2. [MySQL - Relational Database Management System (RDBMS)](#mysql-relational-database-management-system-rdbms)
    - [Overview](#overview)
    - [Use Cases](#use-cases)
    - [Advantages](#advantages)
@@ -16,7 +16,7 @@
    - [Use Cases](#use-cases-1)
    - [Advantages](#advantages-1)
    - [Limitations](#limitations-1)
-4. [Redis: In-Memory Data Store](#redis-in-memory-data-store)
+4. [Redis - In-Memory Data Store](#redis-in-memory-data-store)
    - [Overview](#overview-2)
    - [Use Cases](#use-cases-2)
    - [Advantages](#advantages-2)
