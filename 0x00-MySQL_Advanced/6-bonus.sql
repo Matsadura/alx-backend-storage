@@ -17,8 +17,9 @@ BEGIN
     LIMIT 1;
 
     IF project_id is NULL THEN
-    INSERT INTO projects (name)
-    VALUES (project_name);
+        INSERT INTO projects (name)
+        VALUES (project_name);
+    SET project_id = LAST_INSERT_ID();
     END IF;
 
     INSERT INTO corrections (user_id, project_id, score)
